@@ -15,6 +15,7 @@
 #include <algorithm>
 #include <functional>
 #include <locale>
+#include <cstring>
 
 #include <boost/range/begin.hpp>
 #include <boost/range/end.hpp>

@@ -27,6 +27,7 @@
 #include <boost/range/end.hpp>
 #include <boost/mpl/identity.hpp>      // for identity
 #include <boost/utility/enable_if.hpp> // for boost::disable_if
+#include <boost/type_traits/is_same.hpp> // for boost::disable_if
 
 namespace boost { namespace algorithm {
 
